@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="title_home">Hem</string>
+    <string name="title_quiz">Frågor</string>
+    <string name="title_askQuestion">Ställ frågor</string>
+    <string name="btn_login">LOGGA IN</string>
+    <string name="btn_signup">SKAPA KONTO</string>
+    <string name="textview_email">E-Post</string>
+    <string name="textview_password">Lösenord</string>
+    <string name="textview_username">Användanamn</string>
+    <string name="btn_start">Börja testet</string>
+    <string name="Success_loggedin">Inloggningen lyckades</string>
+    <string name="add_comment">Lägg till kommentar</string>
+    <string name="ask_question">Ställ fråga</string>
+    <string name="submit">Lägg till</string>
+    <string name="response">Svara</string>
+    <string name="add_response">Svara på frågan</string>
+    <string name="fill_the_field">Fyll i alla fält</string>
+    <string name="valid_email">E-post ska vara giltigt och lösenordet ska vara minst 8 tecken</string>
+    <string name="score">Poäng</string>
+    <string name="Failed_to_load_comments">Gick inte att ladda in kommentarer</string>
+    <string name="Successfully_registered">Registrering lyckades</string>
+    <string name="Error_registering">Fel uppstod, kontrollera anslutningen</string>
+    <string name="btn_next">NÄSTA</string>
+    <string name="Wrong_em_pw">Fel E-post eller lösenord</string>
+    <string name="permission_de">Åtkomst nekad</string>
+    <string name="choose_img">VÄLJ BILD</string>
+    <string name="pls_wait">Vänligen vänta</string>
+    <string name="upload">LADDA UPP</string>
+    <string name="last_score">Din senaste poäng</string>
+</resources>
