@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Quiz</string>
+    <string name="textview" translatable="false">TextView</string>
+    <string name="api" translatable="false">API</string>
+    <string name="title_activity_start_page" translatable="false">StartPage</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard" translatable="false">Dashboard</string>
+    <string name="title_quiz">Quiz</string>
+    <string name="title_askQuestion">Ask questions</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_signup">SIGNUP</string>
+    <string name="textview_email">Email</string>
+    <string name="textview_password">Password</string>
+    <string name="textview_username">Username</string>
+    <string name="btn_start">Start the Quiz</string>
+    <string name="Success_loggedin">Successfully logged in</string>
+    <string name="Successfully_registered">Successfully registered :)</string>
+    <string name="Error_registering">Error registering, check the connection :(</string>
+    <string name="add_comment">Add a comment</string>
+    <string name="ask_question"> Ask a question</string>
+    <string name="submit">Submit</string>
+    <string name="btn_next">NEXT</string>
+    <string name="response">Response</string>
+    <string name="add_response"> Add response</string>
+    <string name="Failed_to_load_comments">Failed to load comments.</string>
+    <string name="score">Score</string>
+    <string name="valid_email">The email should be valid  and the password should be at least 8 character</string>
+    <string name="fill_the_field"> Please fill up all the fields</string>
+    <string name="Wrong_em_pw">Wrong email or password</string>
+    <string name="permission_de">Permission denied</string>
+    <string name="choose_img"> CHOOSE IMAGE</string>
+    <string name="pls_wait">Please wait</string>
+    <string name="upload"> UPLOAD</string>
+    <string name="last_score"> Your last score</string>
+</resources>
